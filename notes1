@@ -7,3 +7,4 @@ Remove the Remote:
  use git remote rm which is a shorthand for the remove command
 [git remote rm origin
 ,l,
+ji
