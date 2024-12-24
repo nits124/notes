@@ -1,10 +1,1 @@
-Make sure you're in the root directory of your Git project.
-To see the list of remotes configured for your repository, run:
-[git remote -v
-
-Remove the Remote:
-[git remote remove origin
- use git remote rm which is a shorthand for the remove command
-[git remote rm origin
-,l,
-ji
+https://drive.google.com/drive/folders/1fnGKoM_cpzWWa9h_XLvqmKuMFjFHel74
